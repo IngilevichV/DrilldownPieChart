@@ -1,0 +1,30 @@
+{
+  "name": "drilldownpiechart",
+  "version": "1.0.0",
+  "description": "React Boilerplate with emotion used for CSS and a complete component ready to use. Now with hooks!",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "chroma-js": "^2.1.0",
+    "d3": "^5.15.0",
+    "emotion": "10.0.9",
+    "faker": "^4.1.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
